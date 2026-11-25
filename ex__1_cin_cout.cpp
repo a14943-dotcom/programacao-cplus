@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     int idade;
-    cout << "Ola Ruben, quantos anos tens?";
+    cout << "Ola Ruben, quantos anos tens ?";
     cin >> idade;
     cout << "Nasceste em: "<< (2026-idade);
 }
